@@ -50,6 +50,9 @@ export const metadata: Metadata = {
       "max-image-preview": "large",
     },
   },
+  verification: {
+    google: "uk3hy7iSkp1AY8v_JBlh49bzxJKScP81-6JivIdmHCk",
+  },
 };
 
 const jsonLd = {
